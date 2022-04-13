@@ -78,7 +78,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: #000;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -112,7 +112,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #81d4e9 !important;
+			color: #000 !important;
 		}
 
 	strong, b {
